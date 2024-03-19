@@ -15,3 +15,7 @@ COMP 3005 B Assignment 3 Question 1
 3. In the connection section (Line 9), input your custom values (as they vary with every machine).
 4. Run the file.
 5. Changes can always be seen in pgAdmin as a connection between the two has been established.
+
+# Video Demonstration
+
+https://www.youtube.com/watch?v=qm4xbIpufIY
